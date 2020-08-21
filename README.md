@@ -15,6 +15,8 @@
 
 ## 附带的笔记
 
+1. [GNN简介](https://blog.csdn.net/weixin_43996755/category_10316636.html)
+
 ---
 
 - [ ] 补充关于GraphSAGE的说明
