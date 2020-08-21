@@ -5,5 +5,20 @@
 
 ---
 
+## 2. GraphSAGE
+
+---
+
+## 3. GCN
+
+---
+
+## 附带的笔记
+
+---
+
+- [ ] 补充关于GraphSAGE的说明
+- [ ] 补充关于GCN的说明
+
 <br>
-LAST UPDATE: 2020/08/20
+LAST UPDATE: 2020/08/21
